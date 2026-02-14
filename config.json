@@ -8,7 +8,7 @@
   "image": [
     {
       "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH OF IMAGE" // src/assets/IMAGE_NAME.png
+      "path": "https://raw.githubusercontent.com/d3nym3/image-logger/refs/heads/main/src/assets/download%20(1).jpg" // src/assets/IMAGE_NAME.png
     },
     {
       "name": "NAME OF IMAGE",
